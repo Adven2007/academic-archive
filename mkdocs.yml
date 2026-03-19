@@ -1,0 +1,31 @@
+site_name: Adven Academic Archive
+site_description: Personal academic notes and research
+site_author: Adven
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Mathematics: Mathematics.md
+  - Physics: Physics.md
+  - Computer Science: ComputerScience.md
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - attr_list
+  - footnotes
+  - tables
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Adven2007
+
