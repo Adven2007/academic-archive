@@ -1,7 +1,6 @@
 # Advanced Algebra II
 
 ## References
-- [高等代数 下册 (第二版)](pdfs/Mathematics/AdvancedAlgebra/books/高等代数_下册_(第二版).pdf)
 - [高等代数 下册 (第三版)](pdfs/Mathematics/AdvancedAlgebra/books/高等代数_下册_(第三版).pdf)
 
 ## Self-study
