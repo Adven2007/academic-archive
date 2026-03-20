@@ -1,26 +1,16 @@
-# Adven 的学术档案
+# Adven's Academic Archive
 
-欢迎来到我的学术世界！这里记录了我十多年来在数学、物理和计算机科学领域的学习笔记、研究成果和思考。
+A collection of my study notes and research in mathematics, computer science, and physics.
 
-## 📚 学科导航
+## Fields of Study
+- **Mathematics**  
+    Analysis · Algebra · Geometry · Combinatorics · Number Theory
+- **Computer Science**  
+    Theoretical CS · Algorithms · AI
+- **Physics**  
+    Theoretical Physics
 
-- [**数学**](Mathematics.md) - 数学分析、高等代数、微分几何、拓扑学等
-- [**物理**](Physics.md) - 量子信息、理论物理、统计物理等
-- [**计算机科学**](ComputerScience.md) - AI基础、组合数学、算法理论等
+## Links
+- [GitHub](https://github.com/Adven2007)
 
-## 📝 使用说明
-
-- 所有笔记均为手写 PDF（iPad + Apple Pencil）
-- 点击学科链接进入对应分类
-- PDF 文件可直接在浏览器中打开和下载
-- 代码示例放在对应学科的代码文件夹中
-
-## 🔗 相关链接
-
-- [GitHub 主页](https://github.com/Adven2007)
-- [个人博客]（待添加）
-
----
-
-*始于 2026 年，持续更新中...*
-
+*Continuously updating...*

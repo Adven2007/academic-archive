@@ -14,8 +14,8 @@ theme:
 nav:
   - Home: index.md
   - Mathematics: Mathematics.md
-  - Physics: Physics.md
   - Computer Science: ComputerScience.md
+  - Physics: Physics.md
 
 markdown_extensions:
   - pymdownx.superfences
