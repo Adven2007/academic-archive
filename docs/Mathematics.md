@@ -12,7 +12,7 @@
 - (coming soon)
 
 ## Combinatorics
-- (coming soon)
+- [Combinatorics](mathematics/combinatorics.md))
 
 ## Number Theory
 - (coming soon)

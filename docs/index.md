@@ -3,11 +3,11 @@
 A collection of my study notes and research in mathematics, computer science, and physics.
 
 ## Fields of Study
-- **Mathematics**  
+- [**Mathematics**](Mathematics.md)  
     Analysis · Algebra · Geometry · Combinatorics · Number Theory
-- **Computer Science**  
+- [**Computer Science**](ComputerScience.md)  
     Theoretical CS · Algorithms · AI
-- **Physics**  
+- [**Physics**](Physics.md)  
     Theoretical Physics
 
 ## Links

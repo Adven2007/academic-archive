@@ -6,12 +6,15 @@
 - [数学分析习题课讲义 上册 谢惠民](pdfs/Mathematics/MathematicalAnalysis/books/数学分析习题课讲义_上册.pdf)
 
 ## Self-study
-- (coming soon)
+#### 数学分析 中册
+- [Chapter 9 Self-study notes](pdfs/Mathematics/MathematicalAnalysis/self-study/数学分析_中册_self-study_chapter9_notes.pdf)
+- [Chapter 10 self-study notes](pdfs/Mathematics/MathematicalAnalysis/self-study/数学分析_中册_self-study_chapter10_notes.pdf)
 
 ## Lecture Notes
 - [2026-03-02 Lecture notes](pdfs/Mathematics/MathematicalAnalysis/lecture_notes/20260302_数学分析II_lecture_notes.pdf)
 - [2026-03-04 Lecture notes](pdfs/Mathematics/MathematicalAnalysis/lecture_notes/20260304_数学分析II_lecture_notes.pdf)
 - [2026-03-09 Lecture notes](pdfs/Mathematics/MathematicalAnalysis/lecture_notes/20260309_数学分析II_lecture_notes.pdf)
+- [2026-03-23 Lecture notes](pdfs/Mathematics/MathematicalAnalysis/lecture_notes/20260323_数学分析II_lecture_notes.pdf)
 
 ## Recitation
 - [2026-03-04 Recitation handout](pdfs/Mathematics/MathematicalAnalysis/recitation/20260304_recitation_handout_1.pdf)

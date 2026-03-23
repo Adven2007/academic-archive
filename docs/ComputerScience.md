@@ -8,4 +8,3 @@
 
 ## AI
 - [AI Foundations]()
-- (coming soon)
