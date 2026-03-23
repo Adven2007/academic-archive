@@ -12,8 +12,6 @@
 - (coming soon)
 
 ## Combinatorics
-- [Combinatorics](mathematics/combinatorics.md)
 
 ## Number Theory
 - (coming soon)
-
