@@ -8,7 +8,7 @@
 ## Self-study
 #### 数学分析 中册
 - [Chapter 9 Self-study notes](pdfs/Mathematics/MathematicalAnalysis/self-study/数学分析_中册_self-study_chapter9_notes.pdf)
-- [Chapter 10 self-study notes](pdfs/Mathematics/MathematicalAnalysis/self-study/数学分析_中册_self-study_chapter10_notes.pdf)
+- [Chapter 10 Self-study notes](pdfs/Mathematics/MathematicalAnalysis/self-study/数学分析_中册_self-study_chapter10_notes.pdf)
 
 ## Lecture Notes
 - [2026-03-02 Lecture notes](pdfs/Mathematics/MathematicalAnalysis/lecture_notes/20260302_数学分析II_lecture_notes.pdf)
